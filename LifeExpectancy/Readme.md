@@ -1,4 +1,4 @@
-
+![Life Expectancy Thumbnail](ForReadme.jpg)
 
 # Life Expectancy, Health Expenditure, and GDP Analysis
 
