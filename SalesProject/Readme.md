@@ -1,4 +1,4 @@
-![Sales Preview](ForReadme.jpg)
+![Sales Preview](Thumb.jpg)
 
 
 # Fruit and Vegetable Sales Analysis
