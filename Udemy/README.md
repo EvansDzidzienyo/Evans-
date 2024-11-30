@@ -1,6 +1,6 @@
 ![Sales Preview](Fr.jpg)
 
-\Udemy Courses Performance Report\
+**Udemy Courses Performance Report**
 
 This repository contains a Power BI report that visualizes the performance of Udemy courses over the years. The report offers insights into various metrics such as the number of subscribers, reviews, pricing, course content, and more.
 
